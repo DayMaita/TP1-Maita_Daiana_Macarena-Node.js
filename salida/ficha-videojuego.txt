@@ -1,0 +1,1 @@
+Este archivo será generado automáticamente al ejecutar index.js.
